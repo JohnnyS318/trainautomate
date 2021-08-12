@@ -1,0 +1,11 @@
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\obj\Debug\net5.0\trainautomate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\obj\Debug\net5.0\trainautomate.AssemblyInfoInputs.cache
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\obj\Debug\net5.0\trainautomate.AssemblyInfo.cs
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\obj\Debug\net5.0\trainautomate.csproj.CoreCompileInputs.cache
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\bin\Debug\net5.0\trainautomate.deps.json
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\bin\Debug\net5.0\trainautomate.dll
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\bin\Debug\net5.0\ref\trainautomate.dll
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\bin\Debug\net5.0\trainautomate.pdb
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\obj\Debug\net5.0\trainautomate.dll
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\obj\Debug\net5.0\ref\trainautomate.dll
+C:\Users\jonas\src\trainautomate\trainautomate\trainautomate\obj\Debug\net5.0\trainautomate.pdb

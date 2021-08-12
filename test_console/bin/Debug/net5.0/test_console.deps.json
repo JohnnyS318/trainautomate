@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "test_console/1.0.0": {
+        "dependencies": {
+          "trainautomate": "1.0.0"
+        },
+        "runtime": {
+          "test_console.dll": {}
+        }
+      },
+      "trainautomate/1.0.0": {
+        "runtime": {
+          "trainautomate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test_console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "trainautomate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
